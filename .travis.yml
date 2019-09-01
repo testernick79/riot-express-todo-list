@@ -9,5 +9,5 @@ cache:
 sudo: false
 install:
   - npm install
-script:
-  - npm test
+#script:
+ # - npm test
